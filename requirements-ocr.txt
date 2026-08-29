@@ -1,0 +1,9 @@
+# Optional local OCR runtime. The first OCR run downloads the English model.
+numpy==1.26.4
+opencv-python==4.10.0.84
+opencv-contrib-python==4.10.0.84
+opencv-python-headless==4.10.0.84
+albumentations==1.3.1
+albucore==0.0.12
+paddlepaddle==3.1.1
+paddleocr==2.10.0
